@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -93,7 +93,7 @@ Follow the procedure below
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/varun-saini-18/a-mazing.git
+   git clone https://github.com/Shailly-shah-29/Mazing-game.git
    ```
 2. Install YARN packages
    ```sh
@@ -122,13 +122,13 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Varun Saini - [Linked in](https://www.linkedin.com/in/varun-sainii/)
+Shailly Shah - [Linked in](https://www.linkedin.com/in/shailly-shah/)
 
 
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/varun-sainii
+[linkedin-url]: https://www.linkedin.com/in/shailly-shah/
 [product-screenshot]: images/mgfpss.png
 [product-screenshot1]: images/mgspss.png
 [product-screenshot2]: images/mgmpss.png
